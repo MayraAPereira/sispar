@@ -1,7 +1,9 @@
+import Loggin from "./componets/loggin/Loggin"
+
 function App(){
     return(
         <>
-            <h1>SISPAR</h1>
+            <Loggin/>
         </>
     )
     
